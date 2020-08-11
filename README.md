@@ -4,6 +4,6 @@ Q-learning (Wang et al., 2013) (view [here](https://pdf.sciencedirectassets.com/
 
 The report can be downloaded here (add link).
 
-The presentation can be downloaded here (add link).
+The presentation can be downloaded [here](https://docs.google.com/presentation/d/1jXr_DJxWvKu1PFBkzmXSwHI5eJ76CcNxX61ESFbcUGE/edit#slide=id.g8fa1b94c62_2_24).
 
 This work was done as a Nazarbayev University undergraduate internship project for CSCI 399: Internship II. The temperature factors and their annealing used in algorithms are sill under consideration. Credit is due to Professor Jurn Gyu Park for providing valuable feedback on my approach. Credit is also to [zeynepCankara](https://github.com/zeynepCankara/Cliff-Walking-Solution) for providing free access to her implementation of Cliff-Walking environment. The cartPole experiment is also under process of implementation, credits to [kevchn](https://github.com/kevchn/qlearn-cartpole) for providing free access to his implementation of CartPole environment which both were used as a base for our experiments implementation. 
